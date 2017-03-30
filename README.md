@@ -1,9 +1,9 @@
 # Projeto: iFarra
 ## Equipe:
-Caio Guedes: Líder
-Mateus Cardoso: Desenvolvedor
-Paulo Sérgio: Desenvolvedor
-Marcílio Freitas: Desenvolvedor
+- Caio Guedes: Líder
+- Mateus Cardoso: Desenvolvedor
+- Paulo Sérgio: Desenvolvedor
+- Marcílio Freitas: Desenvolvedor
 
 ## Objetivo
 Desenvolver uma aplicação SaaS para ajudar os usuários a encontrar e descobrir lugares nos quais possam se divertir, sozinhos ou com grupos de amigos.
