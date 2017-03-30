@@ -7,7 +7,7 @@
 
 ## Objetivo
 Desenvolver uma aplicação SaaS para ajudar os usuários a encontrar e descobrir lugares nos quais possam se divertir, sozinhos ou com grupos de amigos.
-Descrição
+## Descrição
 iFarra é uma aplicação Web que surge da premissa de sugerir atrações e estabelecimentos comerciais, tais como bares, lanchonetes, restaurantes e clubes.
 O usuário, através de uma interface intuitiva, pesquisará lugares através de palavras-chave, como por exemplo: “Sanduíche”, “Pizza”, “Cerveja”. Tais estabelecimentos estarão rankeados por preço, avaliação dos usuários e localização mais próxima. No estabelecimento, os usuários também podem usar o aplicativo para criar eventos e chamar amigos que também o utilizam.
 
